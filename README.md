@@ -1,4 +1,4 @@
-# MVVM_Practice
+## MVVM_Practice
 
 **It's very basic Notes App, developed it to learn MVVM concept**
 
